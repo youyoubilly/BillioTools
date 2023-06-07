@@ -1,7 +1,4 @@
 # BillioTools
-<<<<<<< HEAD
-This is a tool kit that contains various scripts I use quite often in Mac OS, such as processing video and pdf files.
-=======
 
 BillioTools is a free and open-source project, providing a collection of handy scripts designed to streamline various tasks on MacOS. The aim of this repository is to offer an extensive tool kit that covers diverse areas such as video and PDF file processing. 
 
@@ -53,4 +50,3 @@ Contributions are always welcome!
 ## License
 
 This project is free to use and is licensed under the [MIT License](LICENSE).
->>>>>>> 0166bd8 (first commit)
